@@ -1,0 +1,146 @@
+body {
+	font-family: 'Joan', serif !important;
+}
+
+nav {
+	padding: 1rem !important
+}
+
+.logo{
+	width: 50px;
+	height: 50px;
+	border-radius: 40%;
+}
+
+.colore-navbar{
+	background-color: #ffefcc !important;
+}
+.container-descrizione {
+	width: 100%;
+	height: 100%;
+	background-image: url("img/descrizione.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	display:  flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.btn-outline-success{
+	background-color: #ffefcc !important;
+	border: 1px solid black !important;
+	color:  black !important;
+}
+.container-logosito {
+	display: flex;
+	justify-content: center;
+	margin: 2rem 0;
+}
+.container-descrizione-p {
+	padding: 0rem 3rem 3rem 3rem;
+	margin: 3rem;
+    background-color: #ffefcc;
+    opacity: 0.9;
+	border-radius: 10px;
+	border: 2px #580000 solid;
+}
+.container-descrizione > h4 {
+	color:  white;
+}
+.immagine{
+	width: 20vw;
+	height: 30vw;
+}
+.colonna {
+	padding: 2rem;
+}
+.contenitore-iscrizione {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin: 2rem;
+}
+.container {
+	background-color: #fff7e6;
+}
+
+.container-fluid {
+	flex-wrap: nowrap !important;
+}
+
+.nav-link {
+	font-size: 20px !important;
+}
+
+.navbar-brand {
+	font-size: 20px !important;
+}
+.card-header {
+	background-color: #ffefcc !important;
+}
+.card-body {
+	background-color: #ffefcc;
+}
+.container-descrizione-diario{ 
+text-align: center; 
+}
+.container-descrizione-diarioo{
+	width: 100%;
+	height: 50%;
+	background-image: url("img/descrizione.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	display:  flex;
+	justify-content: center;
+	align-items: center;
+}
+.container-descrizione-pd{
+	padding: 0rem 1rem 1rem 1rem;
+	margin: 3rem;
+    background-color: #ffefcc;
+    opacity: 0.9;
+	border-radius: 10px;
+	border: 2px #580000 solid;
+}
+.link:active {
+	color: purple;
+}
+.link {
+	color: blue;
+}
+.link[tabindex]:focus{
+	color: purple;
+	outline: none;
+}
+.immagini-diario{
+	width: 15vw;
+	height: 20vw;
+}
+.container-immagine-diario{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem 0;
+}
+.testo-canzone{
+	margin-top: 1rem;
+}
+.row{
+	padding-bottom: 2rem !important;
+}
+.link-profili{
+	color: black;
+}
+.navbar-nav{
+	flex-direction: row !important;
+}
+.nav-item{
+	margin-right: 1rem;
+}
+.immagine-penna{
+	width: 5vw;
+	height: 5wv;
+}
